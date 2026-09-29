@@ -1,5 +1,6 @@
 # Ignore local-only content until approved for public display
 screenshots/*
+!screenshots/*.png
 !screenshots/.gitkeep
 
 # OS/editor noise
