@@ -30,19 +30,26 @@ The experience centers on a simple workflow:
 
 ## Screenshots
 
-The public showcase is intentionally limited to portfolio materials only. Actual app screenshots will be added after review and approval.
+### Dashboard
+![Dashboard](screenshots/Main.png)
 
-### Planned screenshot set
-- Splash / Login
-- Dashboard
-- Jobs / Applications
-- Job Details
-- Add Job
-- Reminders
-- Analytics
-- Settings
+### Job Applications
+![Jobs](screenshots/Jobs.png)
 
-> No screenshot files are included in this repository snapshot until approved app screenshots are provided.
+### Add Job
+![Add Job](screenshots/Add.png)
+
+### Settings
+![Settings](screenshots/Settings.png)
+
+### Login
+![Login](screenshots/Login.png)
+
+### Additional screens
+- Onboarding: screenshots/onBoarding1.png, screenshots/onBoarding2.png, screenshots/onBoarding3.png
+- Profile: screenshots/Profile.png
+- Calendar: screenshots/Calendar.png
+- Sign Up: screenshots/SignUp.png
 
 ## Tech Stack
 
